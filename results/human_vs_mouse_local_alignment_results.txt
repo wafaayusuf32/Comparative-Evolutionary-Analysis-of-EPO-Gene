@@ -1,0 +1,315 @@
+########################################
+# Program: water
+# Rundate: Tue 31 Mar 2026 21:05:48
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20260331-210545-0811-50119910-p2m.asequence
+#    -bsequence emboss_water-I20260331-210545-0811-50119910-p2m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 100720468-100723700
+# 2: c137484078-137481282
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 3408
+# Identity:    1685/3408 (49.4%)
+# Similarity:  1685/3408 (49.4%)
+# Gaps:        1261/3408 (37.0%)
+# Score: 4189.0
+# 
+#
+#=======================================
+
+100720468-100    446 GATGAGGGCCCCCGGTGTGGTCACCCGGCGC-GCCCCAGGTCGCTGAGGG    494
+                     |||||.|.|...|.|.||||.|| |.|||.| |||||.|||||||.|||.
+c137484078-13      1 GATGAAGACTTGCAGCGTGGACA-CTGGCCCAGCCCCGGGTCGCTAAGGA     49
+
+100720468-100    495 ACCCCG---GCCAGGCGCGGAGATGGGGGTGCACGGTGAGTACTCGCGGG    541
+                     .|.|||   ||.||||||||||||||||||||.||||||||||||.|.||
+c137484078-13     50 GCTCCGGCAGCTAGGCGCGGAGATGGGGGTGCCCGGTGAGTACTCACAGG     99
+
+100720468-100    542 CT--GGGCGCTCCCGCCCGCCCGGGTCCCTGTTTGAGCGGGGATTTAGCG    589
+                     ||  ||.| || ..|.||.||.|||..||||||||||...|||||||...
+c137484078-13    100 CTAAGGAC-CT-GTGACCTCCAGGGCTCCTGTTTGAGTAAGGATTTACAT    147
+
+100720468-100    590 CCCCGGCTATTGGCCAGG-AGGTGGCTGGGTTCAAGGACCGGCGACTTGT    638
+                     |....||||||||.|||| |...|.|.|.|||||||||||.||||||...
+c137484078-13    148 CTAAAGCTATTGGTCAGGAAACCGACCGTGTTCAAGGACCTGCGACTCTC    197
+
+100720468-100    639 CAAGGACCCCGGAAGGGGGAGGGGGGTGGGGCAGCCTCCACGTGC-CAGC    687
+                     ||||||.|..|||||.|   ||||||||||||||||||||||||| |...
+c137484078-13    198 CAAGGATCAAGGAAGAG---GGGGGGTGGGGCAGCCTCCACGTGCACTAA    244
+
+100720468-100    688 GGGGACTTGGGGGAG-TCCTTGGGGATGGCAAAAA------------CCT    724
+                     ||||  ||.|||||| .||.||.|.|||.||||||            ||.
+c137484078-13    245 GGGG--TTTGGGGAGCCCCCTGTGAATGACAAAAAAGGCGGGGGGATCCA    292
+
+100720468-100    725 GACCTGTGAAGGGGACACAGTTT-GGGGGTTGAGGGGAAGAAGGTTTGGG    773
+                     ||      |..||||||.|.||| ||...|||.||.||.||         
+c137484078-13    293 GA------ACAGGGACAAAATTTAGGATTTTGGGGAGATGA---------    327
+
+100720468-100    774 GGTTCTGCTGTGCCAGTGGAGAGGAAGCTGATAAGCTGATAACCTGGGCG    823
+                     ||..|||||.||..||||.|    |.||||.|||....||.|||||.|..
+c137484078-13    328 GGCGCTGCTCTGTGAGTGAA----AGGCTGCTAAAGGAATTACCTGCGTC    373
+
+100720468-100    824 CTGGAGCCACCACTT------ATCTGCCAGAGGGGAAGCCTCTG--TCAC    865
+                     |.||||.|.|..|||      |||||||        ||||||||  .|.|
+c137484078-13    374 CAGGAGTCCCTGCTTCCCAGGATCTGCC--------AGCCTCTGGCGCGC    415
+
+100720468-100    866 ACCAGGATTGAAGTTTGGCCGGAGAAGTGGATGCTGGTAGCT--GGGGGT    913
+                     |||...|.|||||||||||| |||||||||||||.|||.|||  ||||||
+c137484078-13    416 ACCCACAGTGAAGTTTGGCC-GAGAAGTGGATGCCGGTCGCTTGGGGGGT    464
+
+100720468-100    914 GGGGTGTGCA-CACGGCAGCAGGATTGAATGAAGGCCAGGGAGGCAGCAC    962
+                     |||||||||| |.||| ||  |||||||||||||||||...||||||..|
+c137484078-13    465 GGGGTGTGCAGCGCGG-AG--GGATTGAATGAAGGCCACTCAGGCAGAGC    511
+
+100720468-100    963 CTGAGTGCTTGCATGGTTGGGGACAGGAAGGACGAGCT-GGGGCAGAGAC   1011
+                     ||.||...|||||.|||.||||.|||.|..|||.|  | .||||||||  
+c137484078-13    512 CTAAGCAATTGCAAGGTCGGGGTCAGCAGAGACTA--TAAGGGCAGAG--    557
+
+100720468-100   1012 GTGGG----GATGAAGGAAGCTGTCC------TTCCACAGCCACCCTTCT   1051
+                       |||    |.|||...||.|.|.||      |.||||.||| ||||  .
+c137484078-13    558 --GGGTCTCGCTGAGCCAACCGGCCCCTGCAGTCCCACGGCC-CCCT--C    602
+
+100720468-100   1052 CCCTCCCCGCCTGACTCTCAGCCTGGCTATCTGTTCTAGAATGTCCTGCC   1101
+                     |||||.|.||||.||.|||||||||.||.||  |||.||||.||||..||
+c137484078-13    603 CCCTCTCGGCCTCACACTCAGCCTGCCTTTC--TTCCAGAACGTCCCACC    650
+
+100720468-100   1102 TGGCTGTGGCTTCTCCTGTCCCTGCTGTCGCTCCCTCTGGGCCTCCCAGT   1151
+                        |||..||||.|.||.|||.||||...|.|.|||||||||||||||||
+c137484078-13    651 ---CTGCTGCTTTTACTCTCCTTGCTACTGATTCCTCTGGGCCTCCCAGT    697
+
+100720468-100   1152 CCTGGGCGCCCCACCACGCCTCATCTGTGACAGCCGAGTCCTGGAGAGGT   1201
+                     |||..|.||.||.||||||||||||||.|||||.|||||.||||||||||
+c137484078-13    698 CCTCTGTGCTCCCCCACGCCTCATCTGCGACAGTCGAGTTCTGGAGAGGT    747
+
+100720468-100   1202 ACCTCTTGGAGGCCAAGGAGGCCGAGAATATCACGGTGAGACCCCTTCCC   1251
+                     ||.||||.||||||||||||||.||.|||.|||||||.||..||||..||
+c137484078-13    748 ACATCTTAGAGGCCAAGGAGGCAGAAAATGTCACGGTAAGCTCCCTGGCC    797
+
+100720468-100   1252 CAGCACATTCCACAG-----AACTCACGCTCAGGG---------------   1281
+                     |  ||||    |.||     ||||....|||||||               
+c137484078-13    798 C--CACA----AAAGAAAGAAACTGGTTCTCAGGGATCTGGGAATTTGGG    841
+
+100720468-100   1282 ---CTTCAGGGAACT-CCT------CCCAGAT-----------CCAGGAA   1310
+                        ||||..|||||| |||      .|.||||           ||...||
+c137484078-13    842 TTCCTTCCTGGAACTACCTTTAGGGACAAGATAAGATGTTTACCCTTAAA    891
+
+100720468-100   1311 CCT-------------GGC------------ACTTGGTTTGGG--GTGG-   1332
+                     |||             |.|            |||.||...|||  |||| 
+c137484078-13    892 CCTCTTTCATCCCCCCGACAAGAATGATAAAACTGGGCAGGGGATGTGGC    941
+
+100720468-100   1333 --AGTTGGGAA----------------GCTAGAC----------------   1348
+                       ||||||.||                ||.||||                
+c137484078-13    942 CCAGTTGGTAAAGAGCTTGCAAAGTGTGCAAGACGCCCTAGGTTCGATTC    991
+
+100720468-100   1349 -----ACTGCCC---------------------CCCTACA----------   1362
+                          |||||.|                     .||||||          
+c137484078-13    992 CAAGTACTGCACAAAACATTTTGGGTGGCATAAACCTACAATCCCAGTAG   1041
+
+100720468-100   1363 --------------TA--AGAAT----AAGTC-TGGTGGCCC--------   1383
+                                   ||  |||||    ||.|| .||||..||        
+c137484078-13   1042 TTGGGAGGTGGTGGTAGGAGAATCAGAAATTCAAGGTGATCCTTAGCTAC   1091
+
+100720468-100   1384 ----CAA-------ACCATACCTG--------GAAACTAGG---------   1405
+                         |||       .||| |||||        |||||||.|         
+c137484078-13   1092 ATATCAAGTGTGAGGCCA-ACCTGGGTTACATGAAACTATGTCTAAAATA   1140
+
+100720468-100   1406 --CAAGGAGCAAAGCCAGCAGATCCTACGGCCTGTGGG------CCAGGG   1447
+                       .||.|| ||||||..|..|.|||.|..||.||..||      .||..|
+c137484078-13   1141 AAGAATGA-CAAAGCTGGTGGTTCCCAAAGCATGCCGGTAAAATTCAAAG   1189
+
+100720468-100   1448 CCAGA----------GCCTTCAG-GGAC-CCTTGACTCCCCGGGCTGTGT   1485
+                     .||||          ||.||..| |||| ..||||  ||..|||||||||
+c137484078-13   1190 ACAGAGTGTCTGATGGCTTTTTGTGGACATTTTGA--CCTGGGGCTGTGT   1237
+
+100720468-100   1486 GCATTTCAGACGGGCTGTGCTGAACACTG----CAGCTTGAATGAGAATA   1531
+                       .|||.|||.|||.|||||.|||    |    |||..|||.|||.||||
+c137484078-13   1238 --CTTTTAGATGGGTTGTGCAGAA----GGTCCCAGACTGAGTGAAAATA   1281
+
+100720468-100   1532 TCACTGTCCCAGACACCAAAGTTAATTTCTATGCCTGGAAGAGGATGGAG   1581
+                     |.||.||||||||.||||||||.||.||||||||.|||||.||.||||||
+c137484078-13   1282 TTACAGTCCCAGATACCAAAGTCAACTTCTATGCTTGGAAAAGAATGGAG   1331
+
+100720468-100   1582 GTGAGTTCCTTTTTTTTTTTT---TTTCCTT-TCTTTTGGAGAATCTCAT   1627
+                     |||||||.|.||.|.|.|..|   |.||||| ||           |.|||
+c137484078-13   1332 GTGAGTTGCATTGTGTCTGGTCCCTGTCCTTGTC-----------CCCAT   1370
+
+100720468-100   1628 TTGCGAGCCTGATTTTGGATGAAAGGGAGAATGATCGAGGGAAAGGTAAA   1677
+                                                                       
+c137484078-13   1371 --------------------------------------------------   1370
+
+100720468-100   1678 ATGGAGCAGCAGAGATGAGGCTGCCTGGGCGCAGAGGCTCACGTCTATAA   1727
+                                         |||.||                ||||    
+c137484078-13   1371 --------------------CTGTCT----------------GTCT----   1380
+
+100720468-100   1728 TCCCAGGCTGAGATGGCCGAGATGGGAGAATTGCTTGAGCCCTGGAGTTT   1777
+                          |.||||                                       
+c137484078-13   1381 -----GTCTGA---------------------------------------   1386
+
+100720468-100   1778 CAGACCAACCTAGGCAGCATAGTGAGAT-CCCCCA---TCTCTACAAACA   1823
+                     |.|.|||.||                || ||||||   ||||.||   |.
+c137484078-13   1387 CCGCCCATCC----------------ATGCCCCCACCCTCTCCAC---CC   1417
+
+100720468-100   1824 TTTAAAAAAATTAGTCAGGT-----GAGGTGGTGCATGGTGGTAGTCCCA   1868
+                     ||               |||     |||||      ||||||  |||.| 
+c137484078-13   1418 TT---------------GGTTCTTAGAGGT------TGGTGG--GTCTC-   1443
+
+100720468-100   1869 GATATTTGGAAGGCTGAGGCGGGAGGATCGCTTGAGCCCAGGAATTTGAG   1918
+                                                                ||||   
+c137484078-13   1444 -------------------------------------------ATTT---   1447
+
+100720468-100   1919 GCTGCAGTGAGCTGTGATCACACCACTGCACTCCAGCCTCAGTGACAGAG   1968
+                                      |||||.|..|                   |.||
+c137484078-13   1448 -----------------TCACATCTTT-------------------ATAG   1461
+
+100720468-100   1969 TGAGGCCCTGTCTCAAAAAAGAAAAGAAAAAAGAAAAATAATGAGGGCTG   2018
+                     ||.||             .||||||.|..|.||    |.||||      |
+c137484078-13   1462 TGTGG-------------GAGAAAATATCAGAG----ACAATG------G   1488
+
+100720468-100   2019 T--ATGGAATACA----TTCAT----TATTCATTCACTCACTCACTCACT   2058
+                     |  ||||.|||.|    .||||    |||||||                |
+c137484078-13   1489 TTCATGGGATAGAGTAGCTCATAATATATTCAT----------------T   1522
+
+100720468-100   2059 CACTCATTCATTCATTCATTCATTCAACAAGTCTTATTGCATAC-CTTCT   2107
+                     ||.|||||||||||||||||||||||..||..||||.|||.|.| .||||
+c137484078-13   1523 CATTCATTCATTCATTCATTCATTCAGTAAACCTTACTGCTTGCTTTTCT   1572
+
+100720468-100   2108 GTT--TGC--TCAGCTTGGTGCTTGGGGCTGCTG----AGGGGCAGGAGG   2149
+                     |||  |.|  ||||               |.|||    |..|.||||..|
+c137484078-13   1573 GTTCCTTCTTTCAG---------------TCCTGTATAATAGCCAGGGAG   1607
+
+100720468-100   2150 GAGAGGG--TGACATGGGTCAGCTGACTCCCAGAGTC---CACTCCCTGT   2194
+                     ||.||||  ||||||.|||..||||  |..|..||||   .|||||| .|
+c137484078-13   1608 GATAGGGAATGACATTGGTTGGCTG--TTTCTAAGTCTTTGACTCCC-CT   1654
+
+100720468-100   2195 AGGTCGGGCAG--CAGGCCGTAGAAGTCTGGCAGGGCCTGGCCCTGCTGT   2242
+                     ||||  ||.||  ||||||.|||||||.|||||.||||||.|||||||.|
+c137484078-13   1655 AGGT--GGAAGAACAGGCCATAGAAGTTTGGCAAGGCCTGTCCCTGCTCT   1702
+
+100720468-100   2243 CGGAAGCTGTCCTGCGGGGCCAGGCCCTGTTGGTCAACTCTTCCCAGCCG   2292
+                     |.|||||..||||||.||.||||||||||.|.|.|||.||.||||||||.
+c137484078-13   1703 CAGAAGCCATCCTGCAGGCCCAGGCCCTGCTAGCCAATTCCTCCCAGCCA   1752
+
+100720468-100   2293 TGGGAGCCCCTGCAGCTGCATGTGGATAAAGCCGTCAGTGGCCTTCGCAG   2342
+                     ...|||.||||.|||||.|||.|.||.||||||.|||||||.||.||.||
+c137484078-13   1753 CCAGAGACCCTTCAGCTTCATATAGACAAAGCCATCAGTGGTCTACGTAG   1802
+
+100720468-100   2343 CCTCACCACTCTGCTTCGGGCTCTGGGAGCCCAGGTGAGTAGGA------   2386
+                     ||||||..|.||||||||||..||||||||.|||||||||..||      
+c137484078-13   1803 CCTCACTTCACTGCTTCGGGTACTGGGAGCTCAGGTGAGTGTGAGTGCCT   1852
+
+100720468-100   2387 GCGGACACTTCTGCTTGCCCTTTCTGTAAGAAGGGGAGAAGGGTCTTGCT   2436
+                     |.||||.||.||.|||||||||                          ||
+c137484078-13   1853 GTGGACCCTGCTACTTGCCCTT--------------------------CT   1876
+
+100720468-100   2437 A-AGGA-GTAC-AGGAACTGTCCGTATTCCTT------CCCT---TTCTG   2474
+                     | |||| |.|| |.||||||          ||      ||||   .||||
+c137484078-13   1877 ACAGGATGCACTAAGAACTG----------TTAAAGAACCCTGAGGTCTG   1916
+
+100720468-100   2475 TGGCA-------CTGCAGC--------GACCTCCTGTTTTCTCCTTGGCA   2509
+                     .|.||       || ||||        ||.|||                 
+c137484078-13   1917 AGCCAGGGAGAGCT-CAGCGGGGAAATGAGCTC-----------------   1948
+
+100720468-100   2510 GAAG-GAAGCCATCTCCCCT-----CCAGATGCGGCCTCAGCTG---CTC   2550
+                     ||.| .|||||...|.||||     |||.|         |||||   .||
+c137484078-13   1949 GATGCTAAGCCTGATGCCCTGGGACCCACA---------AGCTGAAAGTC   1989
+
+100720468-100   2551 CACTCCG-------------------------AACAATCACTGCTGACAC   2575
+                     |.||..|                         |||||..|||.|||||| 
+c137484078-13   1990 CTCTAAGCGAATTAATGTAATAACAAATTTAAAACAAAGACTACTGACA-   2038
+
+100720468-100   2576 TTTCCGCAAACTCTTCCGAGTCTACTCCAATTTCCTCCGGGGA----AAG   2621
+                          ||..|.|||.|.|||...|.||.|          ||||    |.|
+c137484078-13   2039 -----GCTCAGTCTGCGGAGATGAATCAA----------GGGATGGCATG   2073
+
+100720468-100   2622 CTGAAGCTGTACACA-----GGGGAGGC---------CTGCAGGAC----   2653
+                     |||  ||||  ||||     |.||||.|         ||.|||.||    
+c137484078-13   2074 CTG--GCTG--CACAAGTGTGAGGAGCCAAGTTCGATCTCCAGCACTTCC   2119
+
+100720468-100   2654 -----------------AGGGGACAGATGACCAGGTG---TGTCCACCTG   2683
+                                      |.|    |||||   |||||   .||.|||.||
+c137484078-13   2120 ATTTAAAAAAAAAGAAAATG----AGATG---AGGTGGAAGGTACACATG   2162
+
+100720468-100   2684 GGCATATCCACCACCTCCCTCACCAACATTGCTTGTGCCACACCCTCCCC   2733
+                          ||||                 ||..|||.|.|...||..|||.|.
+c137484078-13   2163 -----ATCC-----------------CAGAGCTGGGGAGGCAGACTCGCA   2190
+
+100720468-100   2734 CGCCACTCCTGAACCCCGTCGAGGGGCTCTCAGCTCAGCGCCAGCCTGTC   2783
+                     .| .||||||            |||.|||.|.|      |||||||.|||
+c137484078-13   2191 AG-GACTCCT------------GGGACTCACTG------GCCAGCCAGTC   2221
+
+100720468-100   2784 CCATGGA-CA-----CTCCAG----------------TGC----------   2801
+                        |||| ||     ||||||                |||          
+c137484078-13   2222 ---TGGATCAGTGAGCTCCAGGCTTTACTAAGAGAGATGCTGTCTCGAAA   2268
+
+100720468-100   2802 ---------CAG----------------CAATGA----------------   2810
+                              |||                ||||||                
+c137484078-13   2269 CATTAGACGCAGGGCTGGAGGCATGGCTCAATGATTAGGAGCGCTTGCTG   2318
+
+100720468-100   2811 ---------------------------CATCTCAGGGGC--CAGAGGAAC   2831
+                                                |||.||.||.||  ||.||   |
+c137484078-13   2319 CTCTTGCAGGGTTCAATACCCAGCATCCATATCGGGTGCCTCATAG---C   2365
+
+100720468-100   2832 TGTCCAGAGA-GCAACTCTGAG---ATCTAAGGATGTCACAGGGCCAACT   2877
+                     ||.|...|.| .||.|||| ||   ||||||||.|||           .|
+c137484078-13   2366 TGCCTTTACACCCATCTCT-AGGGAATCTAAGGGTGT-----------AT   2403
+
+100720468-100   2878 TGAGG--GCCCAGAGCA---GGAAGCATTCAGAGAGCAGCTTTAAACTCA   2922
+                     |..||  ||||.|.|||   |.|..||||||                 ||
+c137484078-13   2404 TCTGGATGCCCCGGGCACCTGCATACATTCA-----------------CA   2436
+
+100720468-100   2923 GGGACAGAGCC--------ATGCTGGGAAGAC-GCCTGA-----GCTCA-   2957
+                     ...|||.|.||        ||..||.|.|||| ||||||     .|.|| 
+c137484078-13   2437 TCCACATATCCAAATAAAAATAATGTGGAGACTGCCTGAAGAAGACACAC   2486
+
+100720468-100   2958 CTCGGCAC-------CCTGCAAAATTTGATGCCAGGACACGCTTTGGAGG   3000
+                     |||.||||       |||.|.|...|.||  |||||.|||          
+c137484078-13   2487 CTCTGCACACACCCACCTCCCATTCTGGA--CCAGGTCAC----------   2524
+
+100720468-100   3001 CGAT-TTACCTGTTTTCGCACCTACCA----TCAGGGACA----------   3035
+                       || |||.|||   |.|| ||| |||    .|||.||||          
+c137484078-13   2525 --ATCTTATCTG---TAGC-CCT-CCACACTCCAGTGACATCCTATTCTC   2567
+
+100720468-100   3036 ----------------GGATG--------------------ACCTG----   3045
+                                     .||||                    |||||    
+c137484078-13   2568 TCTTGACAGAAGGAATTGATGTCGCCTCCAGATACCACCCCACCTGCTCC   2617
+
+100720468-100   3046 -----GATAACTTA-GGTG----------GCAAGCTGTGACTTCTCCAGG   3079
+                          ||..|||.| .|||          |||||||.|      |||.||
+c137484078-13   2618 ACTCCGAACACTCACAGTGGATACTTTCTGCAAGCTCT------TCCGGG   2661
+
+100720468-100   3080 TCTCACGGGCATGGGCACTCCCTTGGTGGCAA----GAGCCCCCTTG-AC   3124
+                     ||| || |.||     |||.|||..|.||.||    .|||     || ||
+c137484078-13   2662 TCT-AC-GCCA-----ACTTCCTCCGGGGGAAACTGAAGC-----TGTAC   2699
+
+100720468-100   3125 ACCGGGGTGGTGGGAACCATGA----AGACAGG----ATGGGGGCTGGCC   3166
+                     ||.||.|.|||..|   ||.||    .||||||    ||    ||||   
+c137484078-13   2700 ACGGGAGAGGTCTG---CAGGAGAGGGGACAGGTGACAT----GCTG---   2739
+
+100720468-100   3167 TCTGGCTCTCATGG-GGTCC----AAGTT-----------TTGTGT-ATT   3199
+                      |||.|.| |.||| ||.||    ||.||           .||||| ||.
+c137484078-13   2740 -CTGCCAC-CGTGGTGGACCGACGAACTTGCTCCCCGTCACTGTGTCATG   2787
+
+100720468-100   3200 CTTCAACC   3207
+                     |  |||||
+c137484078-13   2788 C--CAACC   2793
+
+
+#---------------------------------------
+#---------------------------------------
