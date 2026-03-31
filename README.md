@@ -45,4 +45,4 @@ In this first phase, we compared the genomic DNA sequences of the **Human** and 
 ### Biological Interpretation
 * **Isolation of Functional Cores:** The jump in identity (from 43.5% to 49.4%) proves that the local alignment successfully isolated the functional core of the gene, filtering out the most divergent intronic areas.
 * **Exon Conservation:** The alignment highlights specific high-matching segments. These segments represent the coding exons that are strictly preserved by natural selection to maintain the proper function of the Erythropoietin protein.
-* **Evolutionary Pressure:** The presence of these highly conserved local pockets, despite the overall low global score, indicates strong **negative selection**—where mutations in these vital areas are eliminated to keep the organism viable.
+* **Evolutionary Pressure:** The presence of these highly conserved local pockets, despite the overall low global score, indicates strong **negative selection:** where mutations in these vital areas are eliminated to keep the organism viable.
